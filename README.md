@@ -11,4 +11,30 @@ Notes: The test cases have the properties: number of rows is between 1 and 10; n
 
 ![image](https://user-images.githubusercontent.com/81454679/196077606-370b1814-e830-486c-9de6-beb9538e74f9.png)
 
+Example 1
 
+Input:
+5 6
+3 4 1 2 8 6
+6 1 8 2 7 4
+5 9 3 9 9 5
+8 4 1 3 2 6
+3 7 2 8 6 4
+Output:
+16
+Explanation:
+the path: 1 2 3 4 4 5
+        
+Example 2
+
+Input:
+5 6
+3 4 1 2 8 6
+6 1 8 2 7 4
+5 9 3 9 9 5
+8 4 1 3 2 6
+3 7 2 1 2 3
+Output:
+11
+Explanation:
+the path: 1 2 1 5 4 5
