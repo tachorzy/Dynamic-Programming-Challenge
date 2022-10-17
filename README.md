@@ -7,5 +7,8 @@ The two slightly different matrices are shown in figure below. The minimum cost 
 
 You'll be given two integers m and n that indicate the number of rows and columns at the first line. The next m lines will be the matrix and each line represents one row of the given matrix. You're required to output the minimum cost.
 
-Notes: : The test cases have the properties: number of rows is between 1 and 10; number of columns is between 1 and 100; number in matrix can be positive or negative; All path weights can be represented by 30-bit signed integer.
+Notes: The test cases have the properties: number of rows is between 1 and 10; number of columns is between 1 and 100; number in matrix can be positive or negative; All path weights can be represented by 30-bit signed integer.
+
+![image](https://user-images.githubusercontent.com/81454679/196077606-370b1814-e830-486c-9de6-beb9538e74f9.png)
+
 
